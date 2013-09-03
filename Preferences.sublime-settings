@@ -1,0 +1,31 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_face": "DejaVu Sans Mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"match_brackets_angle": true,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": false,
+	"tab_completion": false,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false,
+	"flatland_sidebar_tree_small" : true
+}

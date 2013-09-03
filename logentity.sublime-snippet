@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+echo '<pre>'; \Doctrine\Common\Util\Debug::dump(\$${1:var}, 2); exit;
+]]></content>
+    <tabTrigger>logentity</tabTrigger>
+</snippet>

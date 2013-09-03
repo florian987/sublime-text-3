@@ -1,0 +1,7 @@
+{
+    "sublimelinter_executable_map":
+    {
+        "php": "C:\\Florian\\UwAmp\\bin\\php\\php-5.3.5\\php.exe"
+    },
+    "sublimelinter_gutter_marks": true
+}
