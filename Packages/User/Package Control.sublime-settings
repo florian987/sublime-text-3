@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"Git",
+		"Indent XML",
+		"PHP-Twig",
+		"PhpNamespace",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Theme - Soda",
+		"Twig"
+	]
+}
